@@ -1,0 +1,14 @@
+data1 blue
+data2 blue
+subdata1_1 blue
+subdata1_1 green
+subdata1_1 red
+subdata1_2 blue
+subdata1_2 green
+subdata1_2 red 
+subdata2_1 blue
+subdata2_1 green
+subdata2_1 red
+subdata2_2 blue
+subdata2_2 green
+subdata2_2 red

@@ -1,0 +1,10 @@
+Entry and FinalEntry are stored in the linkeed list. 
+I have commented the printList() function to not 
+display the list. However, the marker, may remove
+the comments and test to see the printLinkedList() if they wish to.
+
+The write to a file is commented out as well because it will create a 
+segmentation fault. it does create a file but writes "0/0/0" into the file
+instead of the wanted data.
+
+
